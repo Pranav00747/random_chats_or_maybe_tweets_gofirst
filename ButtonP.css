@@ -1,0 +1,28 @@
+.btn:hover
+{
+position:absolute;
+left:30%;
+top:80%;
+width:90px;
+height:49px;
+border-radius:18px;
+background:linear-gradient(rgba(0, 51, 102, 0.6), rgb(0, 102, 204));
+font-family:Calibri;
+font-size:12px;
+color:#ffffff;
+text-align:center;
+}
+
+.btn
+{
+position:absolute;
+left:30%;top:80%;
+width:90px;
+height:49px;
+border-radius:18px
+;background:linear-gradient(rgb(0, 51, 102), rgb(0, 102, 204));
+font-family:Calibri;
+font-size:12px;
+color:#ffffff;
+text-align:center;
+}

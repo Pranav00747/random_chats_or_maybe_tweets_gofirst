@@ -1,0 +1,17 @@
+.phead
+{
+font-family:Arial;
+font-size:12px;color:#003366;
+font-weight:bold;
+}
+
+.panel
+{
+  background:rgb(255, 255, 255);
+   width:280px;
+   height:60px;
+   left:3%;
+   top:1%;
+   position:absolute;
+}
+

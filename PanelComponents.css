@@ -1,0 +1,36 @@
+.comps:hover
+{
+background:#d09800;
+}
+.comps
+{
+   background:rgb(0, 0, 0, 0.9);
+   width:280px;
+   height:60px;
+   position:absolute;
+}
+.imgc
+{
+ position:absolute;
+ left:3%;
+ top:10%;
+ border-radius:29px;
+ width:32px;
+ height:32px;
+}
+
+.ctext
+{
+font-family:Calibri;
+font-size:12px;
+color:#ffffff;
+font-weight:bold;
+}
+
+.ctext:hover
+{
+font-family:Calibri;
+font-size:12px;
+color:#00000;
+font-weight:bold;
+}
